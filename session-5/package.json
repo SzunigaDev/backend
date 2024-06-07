@@ -1,0 +1,21 @@
+{
+  "name": "session-5",
+  "version": "1.0.0",
+  "description": "practice backend node",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Sergio I Zuniga",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "datatables.net-dt": "^2.0.8",
+    "express": "^4.19.2",
+    "jquery": "^3.7.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
