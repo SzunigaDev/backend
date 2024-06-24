@@ -12,7 +12,7 @@ Este es un proyecto de práctica backend en Node.js, desarrollado por Sergio I Z
    ```
 2. Navega al directorio del proyecto.
    ```bash
-   cd session-5
+   cd final
    ```
 3. Instala las dependencias del proyecto.
    ```bash
