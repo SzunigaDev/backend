@@ -20,7 +20,7 @@
   },
   "buttons": {
     "copy": "Copiar",
-    "colvis": "Visibilidad",
+    "colvis": "Ver",
     "collection": "Colección",
     "colvisRestore": "Restaurar visibilidad",
     "copyKeys": "Presione ctrl o u2318 + C para copiar los datos de la tabla al portapapeles del sistema. <br /> <br /> Para cancelar, haga clic en este mensaje o presione escape.",
